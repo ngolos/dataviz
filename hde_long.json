@@ -1,0 +1,2557 @@
+[
+ {
+   "date": "2017-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.99
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.04
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 102.19
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.57
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 102.55
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 102.28
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.62
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.63
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.31
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.52
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.96
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.18
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.02
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.18
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.5
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.96
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.31
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.97
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.43
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.98
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.49
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.69
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.12
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.3
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.76
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.42
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 101.14
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.93
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.03
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.18
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.73
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.01
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.74
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.79
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.33
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.18
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.28
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 99.91
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 96.66
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 90.53
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 93.51
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 96.34
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.14
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.34
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.66
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.09
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 95.64
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 94.93
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 94.36
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 95.54
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 96.56
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 97.34
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 97.65
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.8
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 100.38
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.39
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.01
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 98.18
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 95.36
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 95.04
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 94.62
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 94.5
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 89.56
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 88.74
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 89.61
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 89.5
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 86.56
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 86.28
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 84.14
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 85.21
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 87.8
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "HDE_Consumer_Barometer",
+   "value": 88.54
+ },
+ {
+   "date": "2017-01-01",
+   "indicator": "Income_Expectations",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "Income_Expectations",
+   "value": 101.82
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "Income_Expectations",
+   "value": 101.26
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "Income_Expectations",
+   "value": 102.89
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "Income_Expectations",
+   "value": 102.34
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "Income_Expectations",
+   "value": 101.86
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "Income_Expectations",
+   "value": 104.04
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "Income_Expectations",
+   "value": 102.95
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "Income_Expectations",
+   "value": 100.45
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "Income_Expectations",
+   "value": 102.22
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "Income_Expectations",
+   "value": 102.37
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "Income_Expectations",
+   "value": 101.67
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "Income_Expectations",
+   "value": 101.39
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "Income_Expectations",
+   "value": 102.07
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "Income_Expectations",
+   "value": 103.57
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "Income_Expectations",
+   "value": 104.24
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "Income_Expectations",
+   "value": 102.98
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "Income_Expectations",
+   "value": 104.02
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "Income_Expectations",
+   "value": 102.38
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "Income_Expectations",
+   "value": 103.56
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "Income_Expectations",
+   "value": 103.27
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "Income_Expectations",
+   "value": 102.9
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "Income_Expectations",
+   "value": 102.73
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "Income_Expectations",
+   "value": 103.55
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "Income_Expectations",
+   "value": 103.55
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "Income_Expectations",
+   "value": 103.57
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "Income_Expectations",
+   "value": 103.02
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "Income_Expectations",
+   "value": 105.16
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "Income_Expectations",
+   "value": 103.33
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "Income_Expectations",
+   "value": 103.29
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "Income_Expectations",
+   "value": 103.8
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "Income_Expectations",
+   "value": 102.02
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "Income_Expectations",
+   "value": 104.07
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "Income_Expectations",
+   "value": 101.5
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "Income_Expectations",
+   "value": 103.13
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "Income_Expectations",
+   "value": 101.49
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "Income_Expectations",
+   "value": 100.9
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "Income_Expectations",
+   "value": 102.12
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "Income_Expectations",
+   "value": 103.46
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "Income_Expectations",
+   "value": 98.52
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "Income_Expectations",
+   "value": 89.24
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "Income_Expectations",
+   "value": 94.74
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "Income_Expectations",
+   "value": 96.87
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "Income_Expectations",
+   "value": 96.58
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "Income_Expectations",
+   "value": 100.13
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "Income_Expectations",
+   "value": 100.02
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "Income_Expectations",
+   "value": 99.18
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "Income_Expectations",
+   "value": 96.63
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "Income_Expectations",
+   "value": 96.35
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "Income_Expectations",
+   "value": 97.06
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "Income_Expectations",
+   "value": 98.71
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "Income_Expectations",
+   "value": 98.67
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "Income_Expectations",
+   "value": 100.6
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "Income_Expectations",
+   "value": 99.55
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "Income_Expectations",
+   "value": 102.24
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "Income_Expectations",
+   "value": 100.27
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "Income_Expectations",
+   "value": 100.2
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "Income_Expectations",
+   "value": 99.16
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "Income_Expectations",
+   "value": 100.8
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "Income_Expectations",
+   "value": 96.39
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "Income_Expectations",
+   "value": 97.82
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "Income_Expectations",
+   "value": 101.11
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "Income_Expectations",
+   "value": 99.97
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "Income_Expectations",
+   "value": 89.6
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "Income_Expectations",
+   "value": 90.16
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "Income_Expectations",
+   "value": 92.09
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "Income_Expectations",
+   "value": 92.21
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "Income_Expectations",
+   "value": 86.75
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "Income_Expectations",
+   "value": 85.84
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "Income_Expectations",
+   "value": 81.11
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "Income_Expectations",
+   "value": 83.45
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "Income_Expectations",
+   "value": 88.54
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "Income_Expectations",
+   "value": 86.52
+ },
+ {
+   "date": "2017-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.91
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.51
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.49
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.82
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.65
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.72
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.75
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.39
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.97
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.72
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.41
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.28
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.07
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.45
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.96
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 105.88
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.13
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 105.24
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.15
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.18
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.28
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.04
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.36
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 99.85
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.98
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 106.47
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.61
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.88
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.75
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.34
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.9
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.7
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.12
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.39
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.87
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 99.6
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.57
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.62
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 87.17
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 94.53
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 96.21
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 97.1
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.05
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.73
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 100.55
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 97.28
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 94.77
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 94.68
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 97.24
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 102.87
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 103.5
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.89
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.94
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 104.39
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 99.79
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.04
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 101.72
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 98.7
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 97.44
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 86.21
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 86.79
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 82.98
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 81.81
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 80.76
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 80.93
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 75.66
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 75.51
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 68.76
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 72.63
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 74.48
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "Propensity_to_Buy",
+   "value": 74.87
+ },
+ {
+   "date": "2017-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.91
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.23
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "Propensity_to_Save",
+   "value": 100.06
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.48
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "Propensity_to_Save",
+   "value": 101.52
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.47
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.53
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.01
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.75
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.2
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.11
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.77
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.4
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "Propensity_to_Save",
+   "value": 94.71
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.37
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.92
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.57
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.56
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.88
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.95
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.56
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.98
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.52
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.92
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.08
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.89
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "Propensity_to_Save",
+   "value": 94.79
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.2
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.59
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.35
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.88
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.64
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.41
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.11
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.04
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.53
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "Propensity_to_Save",
+   "value": 94.89
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.53
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "Propensity_to_Save",
+   "value": 101.13
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.98
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.16
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "Propensity_to_Save",
+   "value": 100.59
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.16
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.87
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "Propensity_to_Save",
+   "value": 98.02
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "Propensity_to_Save",
+   "value": 99.25
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.58
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.83
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.81
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.21
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.83
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.34
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "Propensity_to_Save",
+   "value": 95.72
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.8
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.5
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.45
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "Propensity_to_Save",
+   "value": 96.69
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.92
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 97.29
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "Propensity_to_Save",
+   "value": 102.87
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "Propensity_to_Save",
+   "value": 105.42
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "Propensity_to_Save",
+   "value": 112.1
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "Propensity_to_Save",
+   "value": 111.67
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "Propensity_to_Save",
+   "value": 111.92
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "Propensity_to_Save",
+   "value": 113.79
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "Propensity_to_Save",
+   "value": 114.69
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "Propensity_to_Save",
+   "value": 114.63
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "Propensity_to_Save",
+   "value": 121.13
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "Propensity_to_Save",
+   "value": 118.6
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "Propensity_to_Save",
+   "value": 118.08
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "Propensity_to_Save",
+   "value": 118.03
+ },
+ {
+   "date": "2017-01-01",
+   "indicator": "Price_Expectations",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "Price_Expectations",
+   "value": 101.22
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "Price_Expectations",
+   "value": 98.52
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "Price_Expectations",
+   "value": 98.58
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "Price_Expectations",
+   "value": 100.27
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "Price_Expectations",
+   "value": 100.45
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "Price_Expectations",
+   "value": 100.27
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "Price_Expectations",
+   "value": 99.4
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "Price_Expectations",
+   "value": 97.13
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "Price_Expectations",
+   "value": 95.86
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "Price_Expectations",
+   "value": 96.78
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "Price_Expectations",
+   "value": 96.41
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "Price_Expectations",
+   "value": 94.81
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "Price_Expectations",
+   "value": 98.09
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "Price_Expectations",
+   "value": 98.09
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "Price_Expectations",
+   "value": 99.15
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "Price_Expectations",
+   "value": 98.44
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "Price_Expectations",
+   "value": 97.91
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "Price_Expectations",
+   "value": 96.27
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "Price_Expectations",
+   "value": 99.1
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "Price_Expectations",
+   "value": 97.78
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "Price_Expectations",
+   "value": 94.46
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "Price_Expectations",
+   "value": 97.22
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "Price_Expectations",
+   "value": 95.82
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "Price_Expectations",
+   "value": 96.39
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "Price_Expectations",
+   "value": 100.11
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "Price_Expectations",
+   "value": 99.42
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "Price_Expectations",
+   "value": 100.69
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "Price_Expectations",
+   "value": 100.74
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "Price_Expectations",
+   "value": 97.65
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "Price_Expectations",
+   "value": 100.22
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "Price_Expectations",
+   "value": 99.98
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "Price_Expectations",
+   "value": 97.03
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "Price_Expectations",
+   "value": 99.84
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "Price_Expectations",
+   "value": 97.58
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "Price_Expectations",
+   "value": 97.95
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "Price_Expectations",
+   "value": 96.5
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "Price_Expectations",
+   "value": 98.17
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "Price_Expectations",
+   "value": 97.3
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "Price_Expectations",
+   "value": 96.55
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "Price_Expectations",
+   "value": 95.75
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "Price_Expectations",
+   "value": 92.85
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "Price_Expectations",
+   "value": 98.27
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "Price_Expectations",
+   "value": 107.07
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "Price_Expectations",
+   "value": 103.48
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "Price_Expectations",
+   "value": 101.18
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "Price_Expectations",
+   "value": 99.55
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "Price_Expectations",
+   "value": 98.3
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "Price_Expectations",
+   "value": 98.16
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "Price_Expectations",
+   "value": 94.01
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "Price_Expectations",
+   "value": 96.28
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "Price_Expectations",
+   "value": 92.78
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "Price_Expectations",
+   "value": 91.96
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "Price_Expectations",
+   "value": 89.03
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "Price_Expectations",
+   "value": 88.19
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "Price_Expectations",
+   "value": 88.2
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "Price_Expectations",
+   "value": 86.25
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "Price_Expectations",
+   "value": 83.9
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "Price_Expectations",
+   "value": 82.02
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "Price_Expectations",
+   "value": 77.99
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "Price_Expectations",
+   "value": 79.59
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "Price_Expectations",
+   "value": 87.58
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "Price_Expectations",
+   "value": 84.46
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "Price_Expectations",
+   "value": 73.47
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "Price_Expectations",
+   "value": 72.36
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "Price_Expectations",
+   "value": 75.09
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "Price_Expectations",
+   "value": 71.64
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "Price_Expectations",
+   "value": 72.62
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "Price_Expectations",
+   "value": 74.92
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "Price_Expectations",
+   "value": 70.86
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "Price_Expectations",
+   "value": 71.02
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "Price_Expectations",
+   "value": 76.06
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "Price_Expectations",
+   "value": 79.49
+ },
+ {
+   "date": "2017-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.78
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.24
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "Economic_Expectations",
+   "value": 105.89
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "Economic_Expectations",
+   "value": 106.1
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "Economic_Expectations",
+   "value": 105.38
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "Economic_Expectations",
+   "value": 108.62
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "Economic_Expectations",
+   "value": 106.42
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "Economic_Expectations",
+   "value": 105.78
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "Economic_Expectations",
+   "value": 107.43
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "Economic_Expectations",
+   "value": 107.08
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "Economic_Expectations",
+   "value": 105.04
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 104.75
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "Economic_Expectations",
+   "value": 108.15
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "Economic_Expectations",
+   "value": 109.56
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "Economic_Expectations",
+   "value": 104.78
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "Economic_Expectations",
+   "value": 105.2
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "Economic_Expectations",
+   "value": 105.5
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.6
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.93
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.18
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "Economic_Expectations",
+   "value": 103.36
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "Economic_Expectations",
+   "value": 101.74
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "Economic_Expectations",
+   "value": 100.66
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 96.75
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "Economic_Expectations",
+   "value": 99.82
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "Economic_Expectations",
+   "value": 98.45
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "Economic_Expectations",
+   "value": 100.09
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "Economic_Expectations",
+   "value": 96.1
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "Economic_Expectations",
+   "value": 95.91
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "Economic_Expectations",
+   "value": 98.1
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "Economic_Expectations",
+   "value": 95.43
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "Economic_Expectations",
+   "value": 93.91
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "Economic_Expectations",
+   "value": 93.24
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "Economic_Expectations",
+   "value": 92.95
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "Economic_Expectations",
+   "value": 93.7
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 93.32
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "Economic_Expectations",
+   "value": 95.22
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "Economic_Expectations",
+   "value": 95.67
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "Economic_Expectations",
+   "value": 79.44
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "Economic_Expectations",
+   "value": 64.17
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "Economic_Expectations",
+   "value": 75.32
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "Economic_Expectations",
+   "value": 83.91
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "Economic_Expectations",
+   "value": 87.32
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "Economic_Expectations",
+   "value": 88.6
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "Economic_Expectations",
+   "value": 93.39
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "Economic_Expectations",
+   "value": 87.89
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "Economic_Expectations",
+   "value": 76.78
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 80.1
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "Economic_Expectations",
+   "value": 80.76
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "Economic_Expectations",
+   "value": 82.36
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "Economic_Expectations",
+   "value": 84.35
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "Economic_Expectations",
+   "value": 83.88
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "Economic_Expectations",
+   "value": 94.82
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "Economic_Expectations",
+   "value": 111.84
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "Economic_Expectations",
+   "value": 108.2
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.79
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "Economic_Expectations",
+   "value": 102.22
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "Economic_Expectations",
+   "value": 101.59
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "Economic_Expectations",
+   "value": 94.12
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 90.68
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "Economic_Expectations",
+   "value": 84.32
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "Economic_Expectations",
+   "value": 84.1
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "Economic_Expectations",
+   "value": 68.21
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "Economic_Expectations",
+   "value": 67.3
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "Economic_Expectations",
+   "value": 70.57
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "Economic_Expectations",
+   "value": 70.24
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "Economic_Expectations",
+   "value": 67.43
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "Economic_Expectations",
+   "value": 66.42
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "Economic_Expectations",
+   "value": 61.67
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "Economic_Expectations",
+   "value": 64.75
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "Economic_Expectations",
+   "value": 68.66
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "Economic_Expectations",
+   "value": 72.15
+ },
+ {
+   "date": "2017-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 100
+ },
+ {
+   "date": "2017-02-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.92
+ },
+ {
+   "date": "2017-03-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.89
+ },
+ {
+   "date": "2017-04-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.62
+ },
+ {
+   "date": "2017-05-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.61
+ },
+ {
+   "date": "2017-06-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 99.83
+ },
+ {
+   "date": "2017-07-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 97.66
+ },
+ {
+   "date": "2017-08-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 99.94
+ },
+ {
+   "date": "2017-09-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.84
+ },
+ {
+   "date": "2017-10-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 97.94
+ },
+ {
+   "date": "2017-11-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.63
+ },
+ {
+   "date": "2017-12-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.74
+ },
+ {
+   "date": "2018-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 97.16
+ },
+ {
+   "date": "2018-02-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 96.33
+ },
+ {
+   "date": "2018-03-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.57
+ },
+ {
+   "date": "2018-04-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 94.28
+ },
+ {
+   "date": "2018-05-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 94.18
+ },
+ {
+   "date": "2018-06-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.67
+ },
+ {
+   "date": "2018-07-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 96.65
+ },
+ {
+   "date": "2018-08-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.75
+ },
+ {
+   "date": "2018-09-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.54
+ },
+ {
+   "date": "2018-10-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 97.64
+ },
+ {
+   "date": "2018-11-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.69
+ },
+ {
+   "date": "2018-12-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 94.76
+ },
+ {
+   "date": "2019-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 97.06
+ },
+ {
+   "date": "2019-02-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 95.23
+ },
+ {
+   "date": "2019-03-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 96.76
+ },
+ {
+   "date": "2019-04-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 96.65
+ },
+ {
+   "date": "2019-05-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 99.22
+ },
+ {
+   "date": "2019-06-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 97.73
+ },
+ {
+   "date": "2019-07-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 98.3
+ },
+ {
+   "date": "2019-08-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 101.85
+ },
+ {
+   "date": "2019-09-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 103.14
+ },
+ {
+   "date": "2019-10-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 109.14
+ },
+ {
+   "date": "2019-11-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 108.74
+ },
+ {
+   "date": "2019-12-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 105.01
+ },
+ {
+   "date": "2020-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 108.33
+ },
+ {
+   "date": "2020-02-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 104.88
+ },
+ {
+   "date": "2020-03-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 104.23
+ },
+ {
+   "date": "2020-04-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 109.78
+ },
+ {
+   "date": "2020-05-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 111.63
+ },
+ {
+   "date": "2020-06-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 107.45
+ },
+ {
+   "date": "2020-07-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 106.63
+ },
+ {
+   "date": "2020-08-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 105.71
+ },
+ {
+   "date": "2020-09-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 106.38
+ },
+ {
+   "date": "2020-10-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 104.46
+ },
+ {
+   "date": "2020-11-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 105.22
+ },
+ {
+   "date": "2020-12-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 107.73
+ },
+ {
+   "date": "2021-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 105.68
+ },
+ {
+   "date": "2021-02-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 106.75
+ },
+ {
+   "date": "2021-03-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 103.69
+ },
+ {
+   "date": "2021-04-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 101.5
+ },
+ {
+   "date": "2021-05-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 104.5
+ },
+ {
+   "date": "2021-06-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 102.06
+ },
+ {
+   "date": "2021-07-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 99.35
+ },
+ {
+   "date": "2021-08-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 101.36
+ },
+ {
+   "date": "2021-09-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 101.47
+ },
+ {
+   "date": "2021-10-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 100.45
+ },
+ {
+   "date": "2021-11-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 102.3
+ },
+ {
+   "date": "2021-12-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 102.03
+ },
+ {
+   "date": "2022-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 102.85
+ },
+ {
+   "date": "2022-02-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 107.87
+ },
+ {
+   "date": "2022-03-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 104.03
+ },
+ {
+   "date": "2022-04-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 108.49
+ },
+ {
+   "date": "2022-05-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 102.9
+ },
+ {
+   "date": "2022-06-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 100.37
+ },
+ {
+   "date": "2022-07-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 96.79
+ },
+ {
+   "date": "2022-08-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 90.76
+ },
+ {
+   "date": "2022-09-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 89.13
+ },
+ {
+   "date": "2022-10-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 91.24
+ },
+ {
+   "date": "2022-11-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 86.94
+ },
+ {
+   "date": "2022-12-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 87.35
+ },
+ {
+   "date": "2023-01-01",
+   "indicator": "Interest_Rate_Expectations",
+   "value": 91.69
+ }
+]
