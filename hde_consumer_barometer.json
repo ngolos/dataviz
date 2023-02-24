@@ -728,5 +728,15 @@
     "Price_Expectations": 79.49,
     "Economic_Expectations": 72.15,
     "Interest_Rate_Expectations": 91.69
+  },
+  {
+    "date": "2/1/2023",
+    "HDE_Consumer_Barometer": 91.93,
+    "Income_Expectations": 93.55,
+    "Propensity_to_Buy": 79.62,
+    "Propensity_to_Save": 114.65,
+    "Price_Expectations": 88.48,
+    "Economic_Expectations": 76.29,
+    "Interest_Rate_Expectations": 90.74
   }
 ]
