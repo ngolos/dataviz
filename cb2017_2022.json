@@ -790,5 +790,50 @@
     "Economic Expectations": 68.66,
     "Interest Rate Expectations": 87.35,
     "year": 2022
+  },
+  {
+    "date": "1/1/2023",
+    "HDE-Consumer Barometer": 88.54,
+    "Income Expectations": 86.52,
+    "Propensity to Buy": 74.87,
+    "Propensity to Save": 118.03,
+    "Price Expectations": 79.49,
+    "Economic Expectations": 72.15,
+    "Interest Rate Expectations": 91.69,
+    "year": 2023
+  },
+  {
+    "date": "2/1/2023",
+    "HDE-Consumer Barometer": 91.93,
+    "Income Expectations": 93.55,
+    "Propensity to Buy": 79.62,
+    "Propensity to Save": 114.65,
+    "Price Expectations": 88.48,
+    "Economic Expectations": 76.29,
+    "Interest Rate Expectations": 90.74,
+    "year": 2023
+  },
+  {
+    "date": "3/1/2023",
+    "HDE-Consumer Barometer": 93.19,
+    "Income Expectations": 96.89,
+    "Propensity to Buy": 83.92,
+    "Propensity to Save": 109.46,
+    "Price Expectations": 90.16,
+    "Economic Expectations": 80.07,
+    "Interest Rate Expectations": 89.95,
+    "year": 2023,
+  },
+  
+  {
+    "date": "4/1/2023",
+    "HDE-Consumer Barometer": 93.33,
+    "Income Expectations": 93.74,
+    "Propensity to Buy": 82.79,
+    "Propensity to Save": 115.47,
+    "Price Expectations": 89.65,
+    "Economic Expectations": 79.19,
+    "Interest Rate Expectations": 88.72,
+    "year": 2023,
   }
 ]
